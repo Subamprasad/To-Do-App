@@ -68,4 +68,4 @@ my-todo-app/
 
 ---
 
-Stay tuned for updates as advanced features are added! 
+New feature updates coming soon! :)
